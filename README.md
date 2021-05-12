@@ -10,9 +10,13 @@ Although there have been a lot of studies undertaken in the past on factors affe
 ## 3.Functional Requirements
 
 ♢	Download the dataset of WHO
+
 ♢	Analyze it and clean the dataset
+
 ♢	Train the regression model on different algorithms
+
 ♢	Check for the best one and finalize that algorithm to train our mode
+
 ♢	The model will return the output as the average predicted lifespan
 
 ## 4.Conclusion
