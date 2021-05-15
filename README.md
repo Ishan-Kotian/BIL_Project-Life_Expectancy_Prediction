@@ -1,4 +1,6 @@
 # BIL_Project-Life_Expectancy_Prediction
+![image](https://user-images.githubusercontent.com/55652596/118358217-76a4c400-b59b-11eb-9650-ed9e34d1158e.png)
+
 ## 1.Overview
 Life expectancy is a statistical measure of the average time a human being is expected to live, Life expectancy depends on various factors: Regional variations, Economic Circumstances, Sex Differences, Mental Illnesses, Physical Illnesses, Education, Year of their birth and other demographic factors. This problem statement provides a way to predict average life expectancy of people living in a country when various factors such as year, GDP, education, alcohol intake of people in the country, expenditure on healthcare system and some specific disease related deaths that happened in the country are given.
 This project is to build a model while considering historical data from a period of 2000  to 2015 for all the countries. The model trained in this project will be able to predict the average lifetime of a human being given some input factors .With the help of this  project any country is able to predict the expected lifetime of their countrymen and then accordingly take preventive measures to improve on their healthcare measures. This will also help countries in improving a particular field such as GDP ,alcohol intake,etc which have a high impact on a country's life expectancy.
