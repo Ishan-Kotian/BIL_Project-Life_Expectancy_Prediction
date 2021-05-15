@@ -26,3 +26,5 @@ Thus, we have developed a model that will predict the life expectancy of a speci
 
 ## 5.Future Scope
 As future scope, we can connect the model to the database which can predict the life Expectancy of not only human beings but also of the plants and different animals present on the earth. This will help us analyze the trends in the life span. A model with country wise bifurcation can be made, which will help to segregate the data demographically.
+
+### Kaggle Notebook link: https://www.kaggle.com/lykin22/life-expectancy-prediction-with-automated-eda
